@@ -1,0 +1,27 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables / secrets
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Raw and processed data
+data/raw/*
+data/interim/*
+data/processed/*
+
+# Generated artifacts
+artifacts/graphs/*
+artifacts/datasets/*
+artifacts/models/*
+artifacts/results/*
