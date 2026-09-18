@@ -1,0 +1,4 @@
+cutoff_year,prediction_window_starts,prediction_window_ends,expected_window_start,start_consistent_with_cutoff,single_prediction_window
+2010,[2011],[2015],2011,True,True
+2015,[2016],[2020],2016,True,True
+2020,[2021],[2025],2021,True,True

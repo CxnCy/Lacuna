@@ -1,0 +1,4 @@
+cutoff_year,candidate_count,positive_count,negative_count,positive_rate,single_future_co_publication_count,single_future_co_publication_share,future_co_publication_median_positive,future_co_publication_mean_positive,future_co_publication_min_positive,future_co_publication_max_positive,positive_pairs_future_count_ge_2,positive_pairs_future_count_ge_3,positive_pairs_future_count_ge_5
+2010,2193,64,2129,0.02918376652986776,54,0.84375,1.0,1.28125,1.0,7.0,10,3,1
+2015,4273,43,4230,0.010063187456119822,40,0.9302325581395349,1.0,1.069767441860465,1.0,2.0,3,0,0
+2020,6524,13,6511,0.001992642550582465,12,0.9230769230769231,1.0,1.0769230769230769,1.0,2.0,1,0,0

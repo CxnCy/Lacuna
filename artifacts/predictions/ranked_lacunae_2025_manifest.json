@@ -1,0 +1,11 @@
+{
+  "model_name": "logistic_regression",
+  "model_role": "ranking_research_baseline",
+  "model_artifact": "/Users/Curie/Documents/projects/lacuna/artifacts/models/logistic_regression_train_2010_2015_test_2020.joblib",
+  "cutoff_year": 2025,
+  "candidate_count": 6821,
+  "output_count": 100,
+  "score_interpretation": "relative_ranking_score_not_calibrated_probability",
+  "prediction_type": "candidate_emerging_research_connection",
+  "scientific_claim": "exploratory_model_ranking_not_prediction_of_discovery"
+}

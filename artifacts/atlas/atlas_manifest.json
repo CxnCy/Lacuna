@@ -1,0 +1,34 @@
+{
+  "atlas_type": "temporal_scientific_knowledge_network",
+  "community_semantics": "data_derived_network_community",
+  "coordinate_system": "graph_derived_2d",
+  "layout_policy": "cutoff_safe_independent_layouts_sequentially_aligned",
+  "prediction_overlay_included": false,
+  "schema_version": "1.0",
+  "states": [
+    {
+      "cutoff_year": 2010,
+      "edge_count": 871,
+      "file": "atlas_2010.json",
+      "node_count": 550
+    },
+    {
+      "cutoff_year": 2015,
+      "edge_count": 1309,
+      "file": "atlas_2015.json",
+      "node_count": 733
+    },
+    {
+      "cutoff_year": 2020,
+      "edge_count": 1692,
+      "file": "atlas_2020.json",
+      "node_count": 884
+    },
+    {
+      "cutoff_year": 2025,
+      "edge_count": 1736,
+      "file": "atlas_2025.json",
+      "node_count": 893
+    }
+  ]
+}

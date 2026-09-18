@@ -1,0 +1,9 @@
+feature,importance
+adamic_adar_score,0.27803298788692277
+preferential_attachment,0.13667993858471286
+weighted_degree_b,0.13343166162998063
+weighted_degree_a,0.1170914112256866
+jaccard_coefficient,0.10639174498494888
+degree_a,0.08742150783309374
+degree_b,0.08532141360772445
+common_neighbour_count,0.05562933424693019

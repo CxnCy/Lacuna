@@ -1,0 +1,6 @@
+cutoff_year,audit_area,severity,flag
+2010,emergence_label,high,Most positive labels are supported by exactly one future co-publication.
+2015,emergence_label,high,Most positive labels are supported by exactly one future co-publication.
+2020,emergence_label,high,Most positive labels are supported by exactly one future co-publication.
+2020,class_balance,high,Positive prevalence is below 1%.
+temporal,candidate_label_drift,high,Candidate counts increase over time while positive counts decrease.

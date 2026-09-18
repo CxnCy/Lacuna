@@ -25,3 +25,10 @@ artifacts/graphs/*
 artifacts/datasets/*
 artifacts/models/*
 artifacts/results/*
+
+# Frontend dependencies and build output
+frontend/node_modules/
+frontend/dist/
+
+# Test cache
+.pytest_cache/

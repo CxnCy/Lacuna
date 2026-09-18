@@ -1,0 +1,2 @@
+selected_model,selected_role,probability_interpretation,severe_limitations,atlas_guidance
+logistic_regression,ranking_research_baseline,not_calibrated_probability,low temporal PR-AUC; low classification precision; poor probability calibration,Use model output only as a relative ranking score for exploratory candidate lacunae. Do not present scores as literal probabilities of future emergence or as claims of scientific discovery.

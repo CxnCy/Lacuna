@@ -1,0 +1,4 @@
+model_name,strengths,limitations
+hist_gradient_boosting,comparatively lower calibration error,very low PR-AUC under severe class imbalance; very low classification precision; PR-AUC deteriorates in the later backtest; ROC-AUC deteriorates in the later backtest
+logistic_regression,above-random mean ROC-AUC; comparatively strong recall,very low PR-AUC under severe class imbalance; very low classification precision; severe probability miscalibration; PR-AUC deteriorates in the later backtest; ROC-AUC deteriorates in the later backtest
+random_forest,above-random mean ROC-AUC; comparatively lower calibration error,very low PR-AUC under severe class imbalance; very low classification precision; PR-AUC deteriorates in the later backtest
